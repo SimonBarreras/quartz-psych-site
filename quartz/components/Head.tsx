@@ -38,6 +38,7 @@ export default (() => {
 
     return (
       <head>
+        <script dangerouslySetInnerHTML={{__html: `(function(){try{var p=window.location.pathname;if(p.indexOf('password-gate')===-1&&sessionStorage.getItem('psych_auth')!=='1'){window.location.replace('/quartz-psych-site/static/password-gate.html');}}catch(e){}})();`}} />
         <title>{title}</title>
         <meta charSet="utf-8" />
         {cfg.theme.cdnCaching && cfg.theme.fontOrigin === "googleFonts" && (
