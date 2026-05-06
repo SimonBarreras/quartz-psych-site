@@ -52,7 +52,7 @@ Research into memory suggests it is malleable and is often unreliable as it may 
 - Modeled with **stores and processes**: Memory has **limited capacity** stores, limited **duration** and **decays**
 - Memory is a part of information processing --> It needs Attention, Rehearsal and a framework to link to
 
-According to [[Loftus & Pickrell (1995) - Lost in a mall]] and [[Shaw (2015)]]; Each time we **recall**, our memory **changes slightly**, due to its **reconstructive** characteristics. 
+According to [[Loftus & Pickrell (1995) - Lost in a mall]] and [[Shaw et al. (2015)]]; Each time we **recall**, our memory **changes slightly**, due to its **reconstructive** characteristics. 
 
 This can be explained from a 
 - #Biological **perspective**: Neural networks, recreating connections (even neuroplasticity and pruning)
@@ -62,7 +62,7 @@ This can be explained from a
 
 [[Loftus & Palmer (1974) - Car collision]] suggested that as memory is reconstructive, there is opportunity to include **post-event** information and from different episodes.
 
-Additionally [[Loftus & Pickrell (1995) - Lost in a mall]] and [[Shaw (2015)]] suggested memory is **<u>Transactive</u>**. Others influence our memory and we rely on others and external sources to remember. (Memory is social)
+Additionally [[Loftus & Pickrell (1995) - Lost in a mall]] and [[Shaw et al. (2015)]] suggested memory is **<u>Transactive</u>**. Others influence our memory and we rely on others and external sources to remember. (Memory is social)
 
 <u>Conclusion</u>
 

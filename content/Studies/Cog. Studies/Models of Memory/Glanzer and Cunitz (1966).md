@@ -1,4 +1,4 @@
-#study #cognitive [[Multi-Store Model of Memory (MSM)]]
+#Study #cognitive [[Multi-Store Model of Memory (MSM)]]
 ___
 
 **Glanzer and Cunitz** conducted two related <u>Lab Experiments</u> providing strong empirical support for the **Multi-Store Model of Memory**, demonstrating that the **primacy** and **recency effects** reflect two distinct memory stores (LTM and STM respectively), and that the recency effect can be selectively eliminated by an interference task while the primacy effect remains intact.

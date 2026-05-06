@@ -1,4 +1,4 @@
-#study #cognitive [[Working Memory Model]], [[Articulatory Suppression]]
+#Study #cognitive [[Working Memory Model]], [[Articulatory Suppression]]
 ___
 
 **Landry and Bartling** conducted a <u>Lab Experiment</u> testing the **Working Memory Model** by using **articulatory suppression** to disrupt the **phonological loop**, demonstrating that this component plays a specific and necessary role in verbal serial recall.

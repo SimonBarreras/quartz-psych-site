@@ -1,4 +1,4 @@
-#PSY #Study #cognitive [[Sampling, Credibility, Generalizability, Transferability and Bias]], [[Dual Processing Model (Systems 1 &2)]], [[Heuristics - Schema Theory]], [[Research Methods]] - in cognitive processes
+#Study #cognitive [[Sampling, Credibility, Generalizability, Transferability and Bias]], [[Dual Processing Model (Systems 1 &2)]], [[Heuristics - Schema Theory]], [[Research Methods]] - in cognitive processes
 ___
 
 ![[Dual Processing Model (Systems 1 &2)]]

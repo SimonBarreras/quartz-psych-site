@@ -1,4 +1,4 @@
-#PSY #HRelations [[Human Relationships]]
+#Study #HRelations [[Human Relationships]]
 ___
 
 **Knapp and Vangelisti's (1996) Model of Relational Development** is a stage model describing how relationships escalate and terminate. It proposes that relationships move through predictable stages in both directions: toward greater intimacy and away from it. The model is relevant to IB Psychology for questions on the **formation, maintenance, change, and dissolution of personal relationships**.

@@ -1,4 +1,4 @@
-#PSY #Study #Biological #Pheromones [[Evolutionary Explanations - Human Relationships]], [[Human Relationships]]
+#Study #Biological #Pheromones [[Evolutionary Explanations - Human Relationships]], [[Human Relationships]]
 ___
 
 **Zhou et al.** conducted a <u>True Lab Experiment</u> to test whether the human chemosignals **androstadienone (AND)** and **estratetraenol (EST)** influence the **perception of biological sex** in a manner consistent with their functioning as human pheromones.

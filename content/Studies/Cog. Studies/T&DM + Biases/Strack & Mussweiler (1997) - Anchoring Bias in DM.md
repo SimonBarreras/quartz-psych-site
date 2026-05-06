@@ -1,4 +1,4 @@
-#PSY #Study #cognitive [[Thinking & Decision Making]], [[Heuristics - Schema Theory]], [[Dual Processing Model (Systems 1 &2)]]
+#Study #cognitive [[Thinking & Decision Making]], [[Heuristics - Schema Theory]], [[Dual Processing Model (Systems 1 &2)]]
 ___
 
 **Strack and Mussweiler** conducted a <u>Lab Experiment</u> investigating whether **anchoring bias** persists even when the anchor value is clearly implausible, testing the robustness of System 1 thinking under conditions where the anchor should logically be dismissed.

@@ -1,4 +1,4 @@
-#biological #Study  [[Neuroplasticity]]
+#Biological #Study  [[Neuroplasticity]]
 ___
 
 **Draganski et al.** conducted a <u>Field Experiment using MRI scans</u> to investigate whether **learning a new motor skill** (juggling) produces measurable **structural changes in grey matter**, directly demonstrating both neuroplasticity and neural pruning in the same participants.

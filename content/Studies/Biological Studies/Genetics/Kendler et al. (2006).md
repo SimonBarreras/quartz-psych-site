@@ -41,13 +41,13 @@ ___
 
 ## Evaluation
 
-| Strengths | Limitations |
-|---|---|
-| **Very large sample** (15,493 twin pairs): one of the largest twin studies on depression ever conducted | **Correlational**: cannot establish cause-and-effect; no specific genes were identified or tested |
-| Results are **consistent with prior research** (35-45% heritability), strengthening reliability | **Self-reported** life events and depression history: men may under-report depression, inflating apparent gender differences |
-| **Verified zygosity**: only twins with confirmed MZ/DZ status were included, increasing internal validity | Diagnosis was not made directly by interviewers: they accepted clinical diagnoses reported by participants, which may be unreliable; telephone diagnosis is of questionable validity |
-| Directly addresses **gender differences** in heritability, an underexplored area | **Twin registry sample**: volunteers may not represent the general population |
-| Consistent with **diathesis-stress model**: individual-specific environment (stressful life events) matters more than shared environment | Cannot determine which specific genes are involved in the 38% heritable component |
+| Strengths                                                                                                                                | Limitations                                                                                                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Very large sample** (15,493 twin pairs): one of the largest twin studies on depression ever conducted                                  | **Correlational**: cannot establish cause-and-effect; no specific genes were identified or tested                                                                                    |
+| Results are **consistent with prior research** (35-45% heritability), strengthening reliability                                          | **Self-reported** life events and depression history: men may under-report depression, inflating apparent gender differences                                                         |
+| **Verified zygosity**: only twins with confirmed MZ/DZ status were included, increasing internal validity                                | Diagnosis was not made directly by interviewers: they accepted clinical diagnoses reported by participants, which may be unreliable; telephone diagnosis is of questionable validity |
+| Directly addresses **gender differences** in heritability, an underexplored area                                                         | **Twin registry sample**: volunteers may not represent the general population                                                                                                        |
+| Consistent with **diathesis-stress model**: individual-specific environment (stressful life events) matters more than shared environment | Cannot determine which specific genes are involved in the 38% heritable component                                                                                                    |
 
 ---
 

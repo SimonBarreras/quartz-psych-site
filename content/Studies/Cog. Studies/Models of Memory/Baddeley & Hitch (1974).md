@@ -1,4 +1,4 @@
-#study #cognitive  [[Working Memory Model]]
+#Study #cognitive  [[Working Memory Model]]
 ___
 
 **Baddeley and Hitch** proposed the **Working Memory Model (WMM)** in 1974 as a replacement for Atkinson & Shiffrin's oversimplified STM store. The WMM reframes short-term memory as a **dynamic, multi-component system** that actively processes information.

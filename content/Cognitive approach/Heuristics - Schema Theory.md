@@ -9,7 +9,7 @@ This note covers two closely related cognitive concepts: **Schema Theory** and *
 
 ### What is a Schema?
 
-A **schema** is a mental representation of knowledge derived from prior experience, stored in the brain to help organize information, guide behaviour, assist recall, and make sense of new experiences.
+A **schema** is a mental representation of knowledge derived from prior experience, stored in the brain to help organise information, guide behaviour, assist recall, and make sense of new experiences.
 
 Schemas are not passive storage systems. Humans are **active information processors**: the brain constantly integrates new incoming information (bottom-up, from the senses) with existing knowledge (top-down, from schemas). When information is missing, the brain fills in the gaps based on what schemas predict should be there, which frequently leads to distortions and errors.
 

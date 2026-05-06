@@ -1,4 +1,4 @@
-#PSY #HRelations #Theory [[Human Relationships]]
+#PSY #HRelations [[Human Relationships]]
 ___
 
 **Similarity-Attraction Theory** proposes that people are attracted to others who are similar to themselves in attitudes, values, personality, and background. The greater the degree of similarity, the greater the interpersonal attraction. The theory was developed primarily by **Donn Byrne (1971)** through experimental research using the "bogus stranger" paradigm.

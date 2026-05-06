@@ -1,4 +1,4 @@
-#Study #Biological [[Genetics]]
+#Study #Biological [[Genetics And Human Behaviour]]
 ___
 
 **Caspi et al. (2003)** conducted a <u>Correlational Study</u> investigating the role of gene mutation (particularly the 5-HTT serotonin transporter gene) in the development of major depressive disorder (MDD). 

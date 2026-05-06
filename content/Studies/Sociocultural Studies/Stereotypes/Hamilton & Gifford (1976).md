@@ -1,7 +1,7 @@
 #Study #Sociocultural [[Stereotypes]], [[Heuristics - Schema Theory]]
 ___
 
-**Hamilton and Gifford** conducted a <u>Lab Experiment</u> demonstrating that **illusory correlation** can cause stereotypes to form purely through cognitive mechanisms, without any prior prejudice or real group differences.
+**Hamilton and Gifford** conducted a <u>Lab Experiment</u> demonstrating that **illusory correlation** can cause stereotypes to form purely through cognitive mechanisms, without any prior prejudice or real group differences. 
 
 **Background:** An **illusory correlation** is the tendency to perceive a relationship between two variables when none exists. It is rooted in the **availability heuristic** (System 1 thinking): when minority group membership and negative behaviour are both statistically rare, their co-occurrence is distinctive and disproportionately memorable, leading people to overestimate the association.
 

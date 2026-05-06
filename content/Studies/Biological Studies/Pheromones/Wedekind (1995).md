@@ -1,15 +1,15 @@
-#PSY #Study #HRelations #Biological #Pheromones [[Evolutionary Explanations - Human Relationships]], [[Human Relationships]]
+#Study #HRelations #Biological #Pheromones [[Evolutionary Explanations - Human Relationships]], [[Human Relationships]]
 ___
 **Wedekind** conducted a <u>Double-Blind Lab Experiment</u>, known as the **"Smelly T-Shirt Study"**, to determine whether women prefer the body odour of men with **dissimilar Major Histocompatibility Complex (MHC) genes**, testing an evolutionary prediction about immune-based mate selection.
 ___
 
 **Background:**
-- The **Major Histocompatibility Complex (MHC)** is a group of genes that enable the immune system to recognise pathogens.
+- The **Major Histocompatibility Complex (MHC)** is a group of genes that enable the immune system to recognize pathogens.
 - MHC genes are **co-dominant**: offspring inherit and express *both* parental sets.
 - More diverse parental MHC leads to a **stronger offspring immune system**.
 - Evolutionary logic therefore predicts a mechanism for detecting MHC dissimilarity in potential mates.
 
-**Aim:** To investigate whether women prefer the body odour of MHC-dissimilar men as an evolutionary mechanism to maximise offspring immune diversity.
+**Aim:** To investigate whether women prefer the body odour of MHC-dissimilar men as an evolutionary mechanism to maximize offspring immune diversity.
 
 ---
 

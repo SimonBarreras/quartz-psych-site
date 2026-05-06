@@ -1,4 +1,4 @@
-#study  #Biological #cognitive   [[Working Memory Model]], [[Multi-Store Model of Memory (MSM)]]
+#Study  #Biological #cognitive   [[Working Memory Model]], [[Multi-Store Model of Memory (MSM)]]
 ___
 
 **Warrington and Shallice** conducted a <u>Case Study</u> on patient **KF**, who suffered brain damage after a motorcycle accident. KF's pattern of memory impairment provided crucial evidence for both the **Multi-Store Model** and the **Working Memory Model**.

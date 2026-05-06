@@ -1,4 +1,4 @@
-#Study #PSY [[Hormones In Human Behaviour]], [[Evolutionary Explanations - Human Relationships]]
+#Study #HRelations [[Hormones In Human Behaviour]], [[Evolutionary Explanations - Human Relationships]]
 ___
 
 **Ryan Ronay and William von Hippel** conducted a <u>Field Experiment</u> investigating whether **testosterone** mediates risk-taking behaviour in the presence of an attractive female observer, testing an evolutionary prediction about **intrasexual competition** and **mate display** in young men.
@@ -6,23 +6,24 @@ ___
 
 **Aim:** To investigate whether the presence of an attractive female observer increases testosterone levels in young male skateboarders and subsequently increases their willingness to take physical risks, consistent with evolutionary theory of mate display.
 
-**Participants:** **96 male skateboarders** aged 18-35 recruited at a skate park in Queensland, Australia.
+**Participants:** **96 male skateboarders** with a mean age of 21.58, recruited at skateboard parks in Australia. 43 were assigned to the male-researcher condition and 53 to the female-researcher condition.
 
-**Method:** <u>Field experiment</u> with a naturalistic setting.
-- Participants performed **skateboarding tricks** in two conditions:
-  - **Female observer condition**: An attractive young female confederate was present and watching.
-  - **Male observer condition**: A male confederate was present and watching.
-- Participants were asked to attempt both **easy tricks** and **difficult/risky tricks**.
-- **Saliva samples** were collected before and after to measure testosterone levels.
-- Performance (success vs. failure) and risk-taking (whether they attempted the difficult trick) were recorded.
+**Method:** <u>Field experiment</u> with a naturalistic setting. Tests were conducted between 2 and 6 pm.
+- Participants first performed tricks alone (baseline), then in front of either:
+  - The **same male researcher** (male observer condition)
+  - An **attractive 18-year-old female researcher** who was blind to the hypothesis (female observer condition)
+- The attractiveness of the female researcher was established by having **20 male raters** view photos of potential female experimenters.
+- Participants attempted one **easy trick** and one **difficult trick** (which they could complete ~50% of the time), **10 times each**, then repeated this **10 more times** in front of the observer.
+- Attempts were coded as: **success**, **crash landing**, or **aborted attempt**. High abort rates indicated low risk-taking.
+- **Saliva samples** were collected **after** the experiment to measure testosterone.
+- **Heart rate** was measured via a Nordic sports watch, taken immediately before and throughout the task.
 
 **Results:**
 - In the **female observer condition**, participants:
-  - Had **significantly higher testosterone levels** after the session.
-  - Were **more likely to attempt risky tricks**, even after failing (increased persistence).
-  - Took more risks when the female confederate was watching directly.
-- In the **male observer condition**, no significant change in testosterone or risk-taking was observed.
-- Critically, men took **greater risks in front of the attractive female even when they had just failed**, suggesting the motivation was impression management, not confidence.
+  - **Aborted fewer difficult tricks** (i.e., took greater risks) compared to the male observer condition.
+  - Had **significantly higher testosterone levels** than those in the male observer condition.
+- There was **no significant difference in heart rate** between the two groups.
+- Note: the note's claim that men persisted "even after failing" is not stated in the source and should not be used.
 
 **Conclusion:** The presence of an attractive female observer raises testosterone and increases risk-taking in young men, consistent with **evolutionary predictions** about intrasexual competition and mate display. Men appear to be biologically primed to display competence and take risks to attract potential mates.
 

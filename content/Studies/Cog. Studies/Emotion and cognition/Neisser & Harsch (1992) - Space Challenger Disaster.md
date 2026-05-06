@@ -12,16 +12,16 @@ ___
 - The **morning after** the Challenger explosion (January 29, 1986), participants filled out a questionnaire describing where they were, who told them, what they were doing, and their emotional reaction.
 - **2.5 years later**, the same participants filled in an identical questionnaire from memory.
 - Responses were scored for accuracy (0-7 scale) and compared to their original accounts.
-- Participants were also asked to rate their **confidence** (0-5) in the accuracy of their memory.
+- Participants were also asked to rate their **confidence** (1-5) in the accuracy of their memory.
 - Participants were asked if they remembered filling out the questionnaire before
 - Semi-structured interviews were carried out a few months later. 
 
 **Results:**
-- Accuracy scores were **very low**: The mean score was 2.95/07, 33 scored between 0-2, and only 3 scored 7. 
+- Accuracy scores were **very low**: The mean score was 2.95/7, 22 scored 2 or less (11 of those scored 0), and only 3 scored the maximum of 7. 
 - **25% of participants** recalled doing the questionnaire originally.  
 - Despite poor accuracy, participants showed **high confidence** in the correctness of their memories. (avg. 4.17)
 - When shown their original accounts, several participants insisted their new (inaccurate) memory was the correct one.
-- For the most part participants maintained their original story 2.5 years later. Additional cues had little effect
+- For the most part participants maintained their later story (2.5 years) at the later interview. Additional cues had little effect
 
 **Conclusion:** Flashbulb memories are **not reliably accurate** despite feeling vivid and certain. The study challenges Brown & Kulik's (1977) claim that FBMs are a special, accurate form of memory, suggesting instead that vividness does not equal accuracy.
 

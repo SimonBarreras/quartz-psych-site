@@ -1,4 +1,4 @@
-#PSY #Study #HRelations #Biological [[Human Relationships]], [[Evolutionary Explanations - Human Relationships]]
+#Study #HRelations #Biological [[Human Relationships]], [[Evolutionary Explanations - Human Relationships]]
 ___
 
 **Fisher, Aron and Brown** conducted a <u>Correlational Study using fMRI neuroimaging</u> investigating the **neurobiological basis of romantic love**, identifying which brain regions are activated when individuals view photographs of someone they are intensely in love with, linking love to the brain's **dopaminergic reward and motivation system**.

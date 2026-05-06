@@ -1,4 +1,4 @@
-#Acculturation #PSY #Study #Sociocultural [[Enculturation - Acquiring your cultural norms + Acculturation]], [[Cultural dimensions]]
+#Acculturation #Study #Sociocultural [[Enculturation - Acquiring your cultural norms + Acculturation]], [[Cultural dimensions]]
 ___
 
 **Lueck and Wilson** conducted a <u>Survey Study using Semi-Structured Interviews</u> investigating which linguistic and social factors predict **acculturative stress** in Asian immigrants and Asian Americans, testing whether integration (maintaining both cultures) is more protective than assimilation.

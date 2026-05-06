@@ -1,4 +1,4 @@
-#PSY #Study #HRelations [[Human Relationships]]
+#Study #HRelations [[Human Relationships]]
 ___
 
 **John Gottman** conducted a <u>Prospective Longitudinal Study</u> in his "Love Lab" examining the role of **positive and negative affect** in marital satisfaction and divorce prediction, specifically testing whether the **Active Listening (Validation) Model** of conflict resolution predicts positive outcomes.

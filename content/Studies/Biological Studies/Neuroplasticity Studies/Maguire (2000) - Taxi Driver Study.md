@@ -1,4 +1,4 @@
-#biological #Study  [[Neuroplasticity]]
+#Biological #Study  [[Neuroplasticity]]
 ___
 
 **Eleanor Maguire et al.** conducted a <u>Quasi-Experiment using MRI scans</u> to investigate whether extensive navigation experience causes **structural changes in the hippocampus** of London taxi drivers, providing some of the most compelling evidence for **neuroplasticity** in the adult human brain.

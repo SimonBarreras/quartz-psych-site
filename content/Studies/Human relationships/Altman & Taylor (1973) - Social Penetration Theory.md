@@ -1,4 +1,4 @@
-#PSY #Study #HRelations [[Human Relationships]]
+#Study #HRelations [[Human Relationships]]
 ___
 
 **Irwin Altman and Dalmas Taylor** developed a <u>Theory</u> proposing that **close relationships form and dissolve through a process of gradual, reciprocal self-disclosure**, structured across distinct stages of increasing depth and breadth.

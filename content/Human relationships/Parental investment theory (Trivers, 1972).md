@@ -11,7 +11,7 @@ It explains human attraction and mating preferences as **adaptations** shaped by
 
   
 
-### **🔹** **Parental Investment Theory ([[Trivers, 1972]]):**
+### Parental Investment Theory ([[Trivers, 1972]]):
 
 - **Core idea:**
     
@@ -29,7 +29,7 @@ It explains human attraction and mating preferences as **adaptations** shaped by
     
 - **Women**’s near-zero acceptance supports the idea of a long-term strategy: avoid risky short-term mating because of pregnancy risk and potential social costs.
 
-### **🔹** **Sexual Strategies Theory ([[Buss & Schmitt, 1993]]):**
+###  **Sexual Strategies Theory ([[Buss & Schmitt, 1993]]):**
 
 - Suggests men and women both use **short-term and long-term mating strategies**, but in different ways depending on context.
     
@@ -42,7 +42,7 @@ It explains human attraction and mating preferences as **adaptations** shaped by
 
 Although evolutionary theory explains the biological side, **cognitive factors** also shape sexual decision-making:
 
-### **🔹** **Schema Theory (Bartlett, 1932):**
+###  **Schema Theory (Bartlett, 1932):**
 
 - People develop **schemas** about what is “appropriate” behavior for men and women in sexual situations based on cultural norms and media.
     
@@ -52,7 +52,7 @@ Although evolutionary theory explains the biological side, **cognitive factors**
 
 - The study took place in **1980s USA**, a time when social stigma for female sexuality was higher. Women’s schemas would discourage them from saying yes.
     
-### **🔹** **Cost–Benefit Analysis (Cognitive Decision-Making Models):**
+###  **Cost–Benefit Analysis (Cognitive Decision-Making Models):**
 
 - People weigh **risks and rewards** before making decisions.
     
@@ -67,7 +67,7 @@ Although evolutionary theory explains the biological side, **cognitive factors**
 
   
 
-### **🔹** **Social Role Theory (Eagly & Wood, 1999):**
+### **Social Role Theory (Eagly & Wood, 1999):**
 
 - Gender differences in behavior are not just biological but also **socially constructed**.
     
@@ -88,7 +88,7 @@ Although evolutionary theory explains the biological side, **cognitive factors**
 
 
 ---
-## **📝 Example Exam Sentence (HL/SL)**
+## **Example Exam Sentence (HL/SL)**
 
   
 

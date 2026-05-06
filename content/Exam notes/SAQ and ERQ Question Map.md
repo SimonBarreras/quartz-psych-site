@@ -45,10 +45,10 @@ This note maps every possible SAQ and ERQ question to the best studies from the 
 | Discuss research studies that investigate neuroplasticity                               | [[Draganski (2004)]]*        | [[Maguire (2000) - Taxi Driver Study]]* | -             |
 | Discuss/Evaluate localization of function                                               | [[HM (Milner, 1996)]]*       | [[Maguire (2000) - Taxi Driver Study]]* | -             |
 | Discuss one or more studies of localization of function                                 | [[HM (Milner, 1996)]]*       | [[Maguire (2000) - Taxi Driver Study]]* | -             |
-| Discuss/Evaluate the role of neurotransmitters in behaviour                             | [[Antonova et al (2011)]]*   | [[Caspi et al. (2003)]]*   | -                      |
+| Discuss/Evaluate the role of neurotransmitters in behaviour                             | [[Antonova et al (2011)]]*   | [[Martinez & Kesner]]      | -                      |
 | Discuss the effect of one or more hormones on human behaviour                           | [[McGaugh & Cahill (1995)]]* | [[Wedekind (1995)]]        | -                      |
-| Discuss/Evaluate pheromones in human behaviour                                          | [[Wedekind (1995)]]*         | [[Caspi et al. (2003)]]    | -                      |
-| To what extent do pheromones affect human behaviour                                     | [[Wedekind (1995)]]*         | [[Caspi et al. (2003)]]    | -                      |
+| Discuss/Evaluate pheromones in human behaviour                                          | [[Wedekind (1995)]]*         | [[Zhou et al (2014) - Boar AND & EST]] | -                      |
+| To what extent do pheromones affect human behaviour                                     | [[Wedekind (1995)]]*         | [[Zhou et al (2014) - Boar AND & EST]] | -                      |
 | Discuss/Evaluate genetic explanations of behaviour                                      | [[Caspi et al. (2003)]]*     | [[Kendler et al. (2006)]]  | -                      |
 | Discuss evolutionary explanations for behaviour                                         | [[Buss (1989)]] - **FLAG**   | [[Wedekind (1995)]]        | -                      |
 | Discuss one or more techniques used to study the brain in relation to behaviour         | [[Antonova et al (2011)]]*   | [[Draganski (2004)]]       | [[HM (Milner, 1996)]]* |
@@ -107,7 +107,6 @@ This note maps every possible SAQ and ERQ question to the best studies from the 
 | Discuss research methods used to study the reliability of one cognitive process                        | [[Loftus & Palmer (1974) - Car collision]]*   | [[Yuille & Cutshall (1986) - Gun shop robbery]]               | [[Neisser & Harsch (1992) - Space Challenger Disaster]]                  |
 | Discuss one or more research methods in the study of one cognitive process                             | [[Loftus & Palmer (1974) - Car collision]]*   | [[Bartlett (1932) - War of Ghosts]]*                          | -                                                                        |
 
-> **Note - Cognitive bias ERQs:** The three-study combination of [[Tversky and Kahneman (1974)]], [[Englich & Mussweiler (2001) - Anchoring Bias (Court Room)]], and [[Strack & Mussweiler (1997) - Anchoring Bias in DM]] covers all cognitive bias questions fully. All three are in your vault.
 
 ---
 
@@ -115,22 +114,22 @@ This note maps every possible SAQ and ERQ question to the best studies from the 
 
 ### SAQs
 
-| Question | Best Study | Why it works |
-|---|---|---|
-| Explain Social Identity Theory with reference to one study | [[Tajfel (1971) - Klee or Kandinsky]]* | Minimal Group Paradigm; in-group favouritism; categorisation |
-| Explain Social Cognitive Theory with reference to one study | [[Bandura (1961), (1963) & (1965)]]* | Bobo doll; observational learning; vicarious reinforcement; matched independent groups |
-| Explain one theory of the formation of stereotypes with reference to one study | [[Hamilton & Gifford (1976)]] | Illusory correlation; Groups A and B; cognitive stereotype formation without prejudice |
-| Explain one study of the effects of stereotyping on behaviour | [[Oak House/Psychology/Studies/Sociocultural Studies/Stereotypes/Steele and Aronson (1995)]]* | Stereotype threat; 114 Black and white Stanford students; framing of test |
-| Explain one cultural dimension with reference to one study | [[Hofstede (2001)]]* | Individualism vs. collectivism; 116,000+ IBM employees; 40 countries; factor analysis |
-| Explain one study of enculturation | [[Fagot (1978)]] | 24 white American families; naturalistic observation; gender role reinforcement; unconscious |
-| Explain one study of acculturation | [[Lueck and Wilson (2010)]] | Acculturative stress; 2,095 Asian Americans; bilingualism protective |
-| Explain one study of assimilation | [[Lueck and Wilson (2010)]] | English-only preference predicted higher stress; assimilation is not protective |
-| Explain one example of a potential influence of culture on behaviour or cognition | [[Kearins (1981)]] | Aboriginal vs. white Australian children; visual-spatial memory; quasi-experiment |
-| Explain one study of cultural (or social) groups | [[Tajfel (1971) - Klee or Kandinsky]]* | Minimal group paradigm; social categorisation alone produces discrimination |
-| Explain one ethical consideration in one study of the individual and the group | [[Bandura (1961), (1963) & (1965)]]* | Deliberately inducing aggression and frustration in young children; no guarantee of lasting harm |
-| Explain one ethical consideration in one study of cultural origins of behaviour | [[Kearins (1981)]] | Researcher-participant power imbalance; testing culturally foreign to Aboriginal children |
-| Explain the use of one research method in one study of the individual and the group | [[Tajfel (1971) - Klee or Kandinsky]]* | Lab experiment; point allocation matrices; minimal group paradigm |
-| Explain the use of one research method in one study of cultural influences | [[Kearins (1981)]] | Quasi-experiment; matched samples; four task conditions; outdoor testing |
+| Question                                                                            | Best Study                             | Why it works                                                                                     |
+| ----------------------------------------------------------------------------------- | -------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| Explain Social Identity Theory with reference to one study                          | [[Tajfel (1971) - Klee or Kandinsky]]* | Minimal Group Paradigm; in-group favouritism; categorisation                                     |
+| Explain Social Cognitive Theory with reference to one study                         | [[Bandura (1961), (1963) & (1965)]]*   | Bobo doll; observational learning; vicarious reinforcement; matched independent groups           |
+| Explain one theory of the formation of stereotypes with reference to one study      | [[Hamilton & Gifford (1976)]]          | Illusory correlation; Groups A and B; cognitive stereotype formation without prejudice           |
+| Explain one study of the effects of stereotyping on behaviour                       | [[Steele and Aronson (1995)]]*         | Stereotype threat; 114 Black and white Stanford students; framing of test                        |
+| Explain one cultural dimension with reference to one study                          | [[Hofstede (2001)]]*                   | Individualism vs. collectivism; 116,000+ IBM employees; 40 countries; factor analysis            |
+| Explain one study of enculturation                                                  | [[Fagot (1978)]]                       | 24 white American families; naturalistic observation; gender role reinforcement; unconscious     |
+| Explain one study of acculturation                                                  | [[Lueck and Wilson (2010)]]            | Acculturative stress; 2,095 Asian Americans; bilingualism protective                             |
+| Explain one study of assimilation                                                   | [[Lueck and Wilson (2010)]]            | English-only preference predicted higher stress; assimilation is not protective                  |
+| Explain one example of a potential influence of culture on behaviour or cognition   | [[Kearins (1981)]]                     | Aboriginal vs. white Australian children; visual-spatial memory; quasi-experiment                |
+| Explain one study of cultural (or social) groups                                    | [[Tajfel (1971) - Klee or Kandinsky]]* | Minimal group paradigm; social categorisation alone produces discrimination                      |
+| Explain one ethical consideration in one study of the individual and the group      | [[Bandura (1961), (1963) & (1965)]]*   | Deliberately inducing aggression and frustration in young children; no guarantee of lasting harm |
+| Explain one ethical consideration in one study of cultural origins of behaviour     | [[Kearins (1981)]]                     | Researcher-participant power imbalance; testing culturally foreign to Aboriginal children        |
+| Explain the use of one research method in one study of the individual and the group | [[Tajfel (1971) - Klee or Kandinsky]]* | Lab experiment; point allocation matrices; minimal group paradigm                                |
+| Explain the use of one research method in one study of cultural influences          | [[Kearins (1981)]]                     | Quasi-experiment; matched samples; four task conditions; outdoor testing                         |
 
 ---
 

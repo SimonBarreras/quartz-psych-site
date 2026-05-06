@@ -1,4 +1,4 @@
-#study #cognitive [[Multi-Store Model of Memory (MSM)]]
+#Study #cognitive [[Multi-Store Model of Memory (MSM)]]
 ___
 
 **George Miller** published a theoretical paper proposing the **"Magic Number 7, Plus or Minus Two"** as the capacity limit of **short-term memory (STM)**, one of the most cited papers in psychology and a cornerstone of the Multi-Store Model.

@@ -1,4 +1,4 @@
-#PSY #Study #HRelations [[Human Relationships]], [[Similarity-Attraction theory]]
+#Study #HRelations [[Human Relationships]], [[Similarity-Attraction theory]]
 ___
 
 **Patrick Markey and Charlotte Markey** conducted a <u>Questionnaire Study</u> investigating whether **similarity** in personality drives partner choice in romantic relationships, testing the similarity-attraction model against the "opposites attract" idea.

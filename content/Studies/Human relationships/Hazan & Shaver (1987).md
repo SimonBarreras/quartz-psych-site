@@ -1,4 +1,4 @@
-#PSY #Study #HRelations [[Human Relationships]], [[Bowlby Attachment Theory]]
+#Study #HRelations [[Human Relationships]], [[Bowlby Attachment Theory]]
 ___
 
 **Cindy Hazan and Phillip Shaver** conducted a <u>Self-Report Questionnaire Study</u>, published as a "love quiz" in a local newspaper, to determine whether there is a correlation between **childhood attachment style** (based on Ainsworth's classification) and **satisfaction and style in adult romantic relationships**.

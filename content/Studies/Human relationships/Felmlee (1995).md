@@ -1,4 +1,4 @@
-#PSY #Study #HRelations [[Human Relationships]]
+#Study #HRelations [[Human Relationships]]
 ___
 
 **Diane Felmlee** conducted a <u>Retrospective Questionnaire Study</u> investigating the phenomenon of **"fatal attractions"** in romantic relationships, the idea that the very quality that initially attracts someone to a partner eventually becomes the primary source of conflict or reason for the relationship ending.

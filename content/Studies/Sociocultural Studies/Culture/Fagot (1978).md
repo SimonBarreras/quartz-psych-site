@@ -14,7 +14,7 @@ ___
 
 **Method:** <u>Overt naturalistic observation</u> with time sampling.
 - Observers used a structured checklist of **46 child behaviours** and **19 parental reactions**.
-- **Five 60-minute observations** were completed for each family over **five weeks**.
+- **Five 60-minute observations** were completed for each family over **five weeks*.
 - The observer used **time sampling**, noting the child's behaviour every **60 seconds** and then recording the parent's response.
 - **Two observers** were used to establish **inter-coder reliability**:
   - Agreement on child behaviour: **0.93**

@@ -1,4 +1,4 @@
-#biological #Study #Animal-Research [[Neuroplasticity]], [[Ethical considerations]]
+#Biological #Study #Animal-Research [[Neuroplasticity]], [[Ethical considerations]]
 ___
 
 **Mark Rosenzweig, Edward Bennett, and Marian Diamond** conducted a <u>Lab Experiment with rats</u> investigating whether **environmental enrichment** affects **brain development**, one of the earliest and most influential studies on neuroplasticity.

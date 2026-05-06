@@ -1,4 +1,4 @@
-#PSY #Study #HRelations [[Human Relationships]]
+#Study #HRelations [[Human Relationships]]
 ___
 
 **Thomas Bradbury and Frank Fincham** conducted a <u>Cross-Sectional Observational Study</u> investigating the role of **causal and responsibility attributions** in marital satisfaction, identifying how couples explain each other's behaviour and whether this pattern correlates with relationship quality.

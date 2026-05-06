@@ -1,4 +1,4 @@
-#study #cognitive   [[Multi-Store Model of Memory (MSM)]]
+#Study #cognitive   [[Multi-Store Model of Memory (MSM)]]
 ___
 
 > *Note: The MSM was originally published in **1968**. Always cite as Atkinson & Shiffrin (1968) in exams.*
