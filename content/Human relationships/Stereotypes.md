@@ -1,4 +1,4 @@
-#PSY #Sociocultural [[Social Identity Theory]], [[Heuristics - Schema Theory]], [[SCLT]]
+#PSY #Sociocultural [[Social Identity Theory]], [[Heuristics - Schema Theory]], [[Social Cognitive Learning Theory (SCLT)]]
 ___
 
 A **stereotype** is an exaggerated oversimplification about an individual based on their group membership or physical features. It is a generalization, positive or negative, made about a group and then attributed to individuals within it. Stereotypes are a specific type of **schema**: a mental framework that organises and simplifies social information.

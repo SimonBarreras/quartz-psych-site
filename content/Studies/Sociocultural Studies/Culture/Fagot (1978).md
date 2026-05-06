@@ -1,4 +1,4 @@
-#Study #Sociocultural [[Enculturation - Acquiring your cultural norms + Acculturation]], [[SCLT]]
+#Study #Sociocultural [[Enculturation - Acquiring your cultural norms + Acculturation]], [[Social Cognitive Learning Theory (SCLT)]]
 ___
 
 **Fagot** conducted an <u>Overt Naturalistic Observation</u> examining how parents reinforce gender-appropriate behaviour in toddlers, demonstrating that cultural gender norms are transmitted through **direct tuition and channelling**, often without parents being consciously aware of their own behaviour.

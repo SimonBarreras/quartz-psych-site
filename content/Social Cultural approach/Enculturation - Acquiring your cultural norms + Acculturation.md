@@ -1,7 +1,7 @@
-#PSY #Sociocultural [[Cultural influences on behaviour + cognition]], [[SCLT]], [[Fagot (1978)]]
+#PSY #Sociocultural [[Culture influence on behaviour + cognition]], [[Social Cognitive Learning Theory (SCLT)]], [[Fagot (1978)]]
 ___
 
-**Enculturation** is the lifelong process by which individuals learn and internalize the values, beliefs, norms, and behaviours of their own culture. Babies are not born with a culture; they develop one through interaction with **gatekeepers** such as parents, school, and the media, as well as through peers. Enculturation is not complete at any particular age — it is a continuous process that reinforces identity as a member of a culture.
+**Enculturation** is the lifelong process by which individuals learn and internalise the values, beliefs, norms, and behaviours of their own culture. Babies are not born with a culture; they develop one through interaction with **gatekeepers** such as parents, school, and the media, as well as through peers. Enculturation is not complete at any particular age it is a continuous process that reinforces identity as a member of a culture.
 
 ---
 
@@ -111,7 +111,7 @@ The marking PDFs identify the following as required for full marks:
 | *"Discuss one or more studies of enculturation of one behaviour"* | Fagot (1978) + Kearins (1981) as a cognition example |
 | *"Evaluate Social Cognitive Theory as an explanation of enculturation"* | Odden & Rochat (2004) supporting; evaluation section above for limitations |
 
-**Paired with**: [[Fagot (1978)]], [[Bandura (1961), (1963) & (1965)]], [[Kearins (1981)]], [[Cultural Dimensions]], [[Cultural influences on behaviour + cognition]], [[Lueck and Wilson (2010)]]
+**Paired with**: [[Fagot (1978)]], [[Bandura (1961), (1963) & (1965)]], [[Kearins (1981)]], [[Cultural Dimensions]], [[Culture influence on behaviour + cognition]], [[Lueck and Wilson (2010)]]
 
 ---
 

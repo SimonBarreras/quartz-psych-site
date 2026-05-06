@@ -1,4 +1,4 @@
-#Study #Sociocultural [[Cultural dimensions]], [[Cultural influences on behaviour + cognition]]
+#Study #Sociocultural [[Cultural dimensions]], [[Culture influence on behaviour + cognition]]
 ___
 
 **Kearins** conducted a <u>Quasi-Experiment</u> comparing **visual-spatial memory** in Aboriginal Australian and white Australian children, providing direct evidence that **cultural background shapes cognitive strategies and memory performance**, and demonstrating that Western cognitive tests systematically underestimate the abilities of non-Western groups.

@@ -5,8 +5,8 @@ The sociocultural approach covers social and cultural factors shaping behaviour,
 
 1. The individual and the group
    - [[Social Identity Theory]]
-   - [[SCLT]]: Learning from others
-1. [[Cultural influences on behaviour + cognition]]
+   - [[Social Cognitive Learning Theory (SCLT)]]: Learning from others
+1. [[Culture influence on behaviour + cognition]]
    - [[Enculturation - Acquiring your cultural norms + Acculturation]]
 1. [[Cultural Dimensions]]
 2. Globalization (HL) - Identity, Attitudes, Behaviour
@@ -24,4 +24,4 @@ ___
 ![[Heuristics - Schema Theory]]
 
 ___
-![[SCLT]]
+![[Social Cognitive Learning Theory (SCLT)]]

@@ -158,8 +158,6 @@ This note maps every possible SAQ and ERQ question to the best studies from the 
 
 ## PAPER 2 - HUMAN RELATIONSHIPS
 
-*(Left unchanged as instructed — studying for Paper 2 later)*
-
 ---
 
 ## Studies Flagged as Essential Not On Your Reviewed List

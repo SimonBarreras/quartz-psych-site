@@ -8,7 +8,7 @@ ___
 - [[Dual Processing Model (Systems 1 &2)]]
 - [[Self-efficacy]]
 - [[Cognitive Dissonance]]
-- [[SCLT]]
+- [[Social Cognitive Learning Theory (SCLT)]]
 - [[Reconstructive Memory]]
 
 ___

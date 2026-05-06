@@ -1,4 +1,4 @@
-#study #Sociocultural [[SCLT]], [[Ethical considerations]]
+#study #Sociocultural [[Social Cognitive Learning Theory (SCLT)]], [[Ethical considerations]]
 ___
 
 **Joy, Kimball and Zabrack** conducted a <u>Natural Experiment</u> investigating the effect of **television introduction** on children's aggressive behaviour in a real Canadian community, providing naturalistic evidence for **Social Cognitive Learning Theory (SCLT)** in a non-laboratory setting.

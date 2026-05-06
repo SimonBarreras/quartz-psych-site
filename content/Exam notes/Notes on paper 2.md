@@ -130,7 +130,9 @@ ____
 
 ### ERQ Command Terms
 
-> [!note] Command Terms **Discuss** — Present evidence and arguments for and against; weigh them up and reach a balanced conclusion. Most common command term.
+> [!note] Command Terms
+>  
+>  **Discuss** — Present evidence and arguments for and against; weigh them up and reach a balanced conclusion. Most common command term.
 > 
 > **Evaluate** — Make a judgement about the value or limitations of something using evidence. Requires a supported conclusion.
 > 

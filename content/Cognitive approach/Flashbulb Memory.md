@@ -10,7 +10,7 @@ FBMs are a type of **autobiographical memory**. They feel permanent and accurate
 
 ---
 
-## Brown & Kulik (1977) — Original Theory
+## Brown & Kulik (1977) - Original Theory
 
 Brown & Kulik proposed that FBMs are produced by a **special biological memory mechanism** they called **Now Print**, triggered when an event meets a threshold of surprise and emotional significance. They identified six characteristic features of FBMs:
 
@@ -34,11 +34,11 @@ They proposed that **rehearsal** (repeatedly thinking or talking about the event
 
 The central question is whether FBMs are **genuinely more accurate** than ordinary memories, or simply **more vivid and more confidently held**.
 
-**Brown & Kulik (1977)** argued yes — the special mechanism produces reliable, accurate memories.
+**Brown & Kulik (1977)** argued yes, the special mechanism produces reliable, accurate memories.
 
 **Neisser & Harsch (1992)** challenged this directly. Using the Challenger disaster as the trigger event, they showed that FBMs are subject to significant distortion over 2.5 years, with a mean accuracy score of only 2.95/7, while participants maintained high confidence (avg. 4.17/5). Critically, when shown their original accounts, most participants could not explain the discrepancies. See: [[Neisser & Harsch (1992) - Space Challenger Disaster]].
 
-**Talarico & Rubin (2003)** followed up with 54 Duke University students after 9/11 and found that flashbulb memories and everyday memories both declined in accuracy at the same rate over time. The only difference was that participants retained greater **belief in the accuracy** of their FBMs — vividness and confidence diverged from actual accuracy.
+**Talarico & Rubin (2003)** followed up with 54 Duke University students after 9/11 and found that flashbulb memories and everyday memories both declined in accuracy at the same rate over time. The only difference was that participants retained greater **belief in the accuracy** of their FBMs, vividness and confidence diverged from actual accuracy.
 
 **Sharot et al. (2007)** provides a partial defence of the FBM concept from a biological angle. Using fMRI, they found that participants who were physically closer to Ground Zero on 9/11 showed stronger **amygdala activation** when recalling the event and reported more vivid, confident memories. This suggests personal proximity and emotional arousal contribute to the formation of stronger (though not necessarily more accurate) memory traces. See: [[Sharot et al (2007) - 911]].
 
@@ -53,7 +53,7 @@ The neurobiology of FBMs centres on the interaction between the **amygdala** and
 - This is consistent with **McGaugh & Cahill's** (1995) work showing that blocking adrenaline (via propranolol) impairs memory for emotional material.
 - Sharot et al. (2007) found amygdala activation correlated with FBM vividness, providing direct neuroimaging support.
 
-However, enhanced neural encoding does not guarantee accuracy — the brain may encode a vivid but partially reconstructed version of an event.
+However, enhanced neural encoding does not guarantee accuracy,  the brain may encode a vivid but partially reconstructed version of an event.
 
 ---
 

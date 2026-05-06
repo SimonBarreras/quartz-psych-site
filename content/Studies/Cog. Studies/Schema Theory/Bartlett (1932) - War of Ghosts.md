@@ -1,4 +1,4 @@
-#study #cognitive #Sociocultural [[Heuristics - Schema Theory]], [[Reconstructive Memory]], [[Cultural influences on behaviour + cognition]]
+#study #cognitive #Sociocultural [[Heuristics - Schema Theory]], [[Reconstructive Memory]], [[Culture influence on behaviour + cognition]]
 ___
 
 **Bartlett** conducted a <u>Series of Memory Experiments</u> demonstrating that memory is reconstructive and influenced by **cultural schemas**, challenging the view that memory is a passive, accurate recording of events.
