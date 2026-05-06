@@ -160,29 +160,105 @@ This note maps every possible SAQ and ERQ question to the best studies from the 
 
 ---
 
-## Studies Flagged as Essential Not On Your Reviewed List
+### Personal Relationships - ERQs
 
-| Study | Why essential | Priority |
-|---|---|---|
-| **Buss (1989)** | Only viable study for "Explain/Discuss evolutionary explanations for behaviour" — no other study on your list tests Parental Investment Theory or cross-cultural mate preferences. Without it, this question has no primary study. | **HIGH — learn this** |
+> **Note:** There are no SAQs on Paper 2. All questions below are ERQs requiring two or more pieces of research.
 
+#### Combining topic and guidance
 
+| Question | Study 1 | Study 2 | Study 3 (optional) |
+|---|---|---|---|
+| Discuss/Evaluate a biological approach to personal relationships | [[Wedekind (1995)]]* | [[Fisher et al 2005]] | - |
+| Discuss/Evaluate a cognitive approach to personal relationships | [[Bradbury & Fincham (1992) - Relationship enhancing patterns]]* | [[Hazan & Shaver (1987)]] | - |
+| Discuss/Evaluate a sociocultural approach to personal relationships | [[Hazan & Shaver (1987)]]* | [[Gottman (1999)]] | [[Knapp and Vangelisti (1996) - Model of Relational Development]] |
+| Contrast a biological and cognitive approach to personal relationships | [[Wedekind (1995)]]* | [[Bradbury & Fincham (1992) - Relationship enhancing patterns]] | - |
+| Contrast a biological and sociocultural approach to personal relationships | [[Wedekind (1995)]]* | [[Hazan & Shaver (1987)]] | [[Knapp and Vangelisti (1996) - Model of Relational Development]] |
+| Contrast a cognitive and sociocultural approach to personal relationships | [[Bradbury & Fincham (1992) - Relationship enhancing patterns]]* | [[Hazan & Shaver (1987)]] | [[Knapp and Vangelisti (1996) - Model of Relational Development]] |
+| Discuss two or more ethical considerations in the study of personal relationships | [[Hazan & Shaver (1987)]]* | [[Gottman (1999)]] | - |
+| Discuss one or more research methods used to study personal relationships | [[Gottman (1999)]]* | [[Hazan & Shaver (1987)]] | [[Wedekind (1995)]] |
+
+#### Content only
+
+| Question                                                                  | Study 1                    | Study 2                                                         | Study 3 (optional)                                                |
+| ------------------------------------------------------------------------- | -------------------------- | --------------------------------------------------------------- | ----------------------------------------------------------------- |
+| Discuss the formation of personal relationships                           | [[Hazan & Shaver (1987)]]* | [[Markey & Markey (2007)]]                                      | [[Altman & Taylor (1973) - Social Penetration Theory]]<br>[[Bowlby Attachment Theory]] |
+| Discuss one or more studies on the formation of personal relationships    | [[Hazan & Shaver (1987)]]* | [[Markey & Markey (2007)]]                                      | [[Altman & Taylor (1973) - Social Penetration Theory]]<br>[[Bowlby Attachment Theory]] |
+| Discuss the role of communication in relationships                        | [[Gottman (1999)]]*        | [[Bradbury & Fincham (1992) - Relationship enhancing patterns]] | [[Knapp and Vangelisti (1996) - Model of Relational Development]] |
+| Discuss one or more studies on the role of communication in relationships | [[Gottman (1999)]]*        | [[Bradbury & Fincham (1992) - Relationship enhancing patterns]] | [[Knapp and Vangelisti (1996) - Model of Relational Development]] |
+| Discuss why relationships change or end                                   | [[Gottman (1999)]]*        | [[Bradbury & Fincham (1992) - Relationship enhancing patterns]] | [[Knapp and Vangelisti (1996) - Model of Relational Development]] |
+| Discuss one or more studies on why relationships change or end            | [[Gottman (1999)]]*        | [[Bradbury & Fincham (1992) - Relationship enhancing patterns]] | [[Knapp and Vangelisti (1996) - Model of Relational Development]] |
+
+> **Note - Personal Relationships:** Hazan & Shaver (1987) is the most versatile study here, covering formation, cognitive approach (internal working models), and sociocultural approach (cultural variation in attachment). Gottman anchors communication questions and is the primary study for change/end questions given his longitudinal dissolution data. Bradbury & Fincham handles cognitive attribution for communication breakdown. Knapp & Vangelisti is a supporting third study, useful when a question specifically invites a stage model or sociocultural framing. Wedekind and Fisher cover the biological approach ERQs.
 
 ---
 
-## Studies You Have Reviewed That Are Not Currently Used (Freed Up)
+### Social Responsibility - ERQs
 
-These are in your vault and reviewed but are no longer primary picks in the map. You do not need to actively memorise them for Paper 1:
+#### Combining topic and guidance
 
-- Rosenzweig et al. (1972) — replaced by Draganski for neuroplasticity
-- Zimbardo (1971) — Bandura + Tajfel cover ethics and group dynamics
-- Abrams et al. (1990) — Tajfel covers SIT ERQs
-- Festinger (1956) — Bandura covers ethics in sociocultural
-- Newcomer et al. (1999) — McGaugh + Wedekind cover hormones ERQs
-- Bouchard et al. (1990) — Kendler covers twin study questions
-- Atkinson & Shiffrin (1968) — Glanzer & Cunitz is preferred for MSM SAQs as it provides empirical evidence; Atkinson & Shiffrin is the theoretical model source and can be used as supplementary context
-- Baddeley & Hitch (1974) — Landry & Bartling is preferred for WMM SAQs as it provides direct empirical evidence; Baddeley & Hitch is the theoretical framework
-- Joy, Kimball & Zabrack (1986) — SCT is covered by Bandura; this study is freed up
+| Question | Study 1 | Study 2 | Study 3 (optional) |
+|---|---|---|---|
+| Discuss/Evaluate a biological approach to social responsibility | [[Piliavin et al. (1969) - Subway Samaritan]]* | [[Fisher et al 2005]] | - |
+| Discuss/Evaluate a cognitive approach to social responsibility | [[Darley & Batson (1973) - Good samaritan]] - **FLAG** | [[Piliavin et al. (1969) - Subway Samaritan]]* | - |
+| Discuss/Evaluate a sociocultural approach to social responsibility | [[Levine et al. (2001)]] - **FLAG** | [[Piliavin et al. (1969) - Subway Samaritan]]* | - |
+| Contrast a biological and cognitive approach to social responsibility | [[Piliavin et al. (1969) - Subway Samaritan]]* | [[Darley & Batson (1973) - Good samaritan]] - **FLAG** | - |
+| Contrast a biological and sociocultural approach to social responsibility | [[Piliavin et al. (1969) - Subway Samaritan]]* | [[Levine et al. (2001)]] - **FLAG** | - |
+| Contrast a cognitive and sociocultural approach to social responsibility | [[Darley & Batson (1973) - Good samaritan]] - **FLAG** | [[Levine et al. (2001)]] - **FLAG** | - |
+| Discuss two or more ethical considerations in the study of social responsibility | [[Piliavin et al. (1969) - Subway Samaritan]]* | [[Darley & Batson (1973) - Good samaritan]] - **FLAG** | - |
+| Discuss one or more research methods used to study social responsibility | [[Piliavin et al. (1969) - Subway Samaritan]]* | [[Darley & Batson (1973) - Good samaritan]] - **FLAG** | - |
+
+#### Content only
+
+| Question | Study 1 | Study 2 | Study 3 (optional) |
+|---|---|---|---|
+| Discuss/Evaluate one or more theories of bystanderism | [[Piliavin et al. (1969) - Subway Samaritan]]* | [[Darley & Batson (1973) - Good samaritan]] - **FLAG** | - |
+| Discuss/Evaluate one or more studies on bystanderism | [[Piliavin et al. (1969) - Subway Samaritan]]* | [[Darley & Batson (1973) - Good samaritan]] - **FLAG** | - |
+| Discuss/Evaluate one or more studies on prosocial behavior | [[Piliavin et al. (1969) - Subway Samaritan]]* | [[Darley & Batson (1973) - Good samaritan]] - **FLAG** | [[Levine et al. (2001)]] - **FLAG** |
+| Discuss/Evaluate one or more strategies for the promotion of prosocial behavior | [[Piliavin et al. (1969) - Subway Samaritan]]* | [[Darley & Batson (1973) - Good samaritan]] - **FLAG** | [[Levine et al. (2001)]] - **FLAG** |
+
+> **FLAG - Darley & Batson (1973) and Levine et al. (2001):** Piliavin is a primary study and covers most questions. Darley & Batson is essential for cognitive approach and any question distinguishing situational from dispositional factors. It is low-investment: 40 seminary students, Good Samaritan task, hurry manipulation, situational factors beat dispositional ones. Levine et al. is needed specifically for the sociocultural approach question. Without these two studies, the cognitive and sociocultural approach ERQs have no adequate primary study from your reviewed list.
+
+---
+
+### Group Dynamics - ERQs
+
+#### Combining topic and guidance
+
+| Question | Study 1 | Study 2 | Study 3 (optional) |
+|---|---|---|---|
+| Discuss a biological approach to group dynamics | [[Piliavin et al. (1969) - Subway Samaritan]]* | [[Wedekind (1995)]] | - |
+| Discuss a cognitive approach to group dynamics | [[Hamilton & Gifford (1976)]]* | [[Tajfel (1971) - Klee or Kandinsky]] | - |
+| Discuss a sociocultural approach to group dynamics | [[Tajfel (1971) - Klee or Kandinsky]]* | [[Sherif et al (1954) - Robbers cave]] - **FLAG** | - |
+| Contrast a biological and cognitive approach to group dynamics | [[Piliavin et al. (1969) - Subway Samaritan]]* | [[Hamilton & Gifford (1976)]] | - |
+| Contrast a biological and sociocultural approach to group dynamics | [[Piliavin et al. (1969) - Subway Samaritan]]* | [[Tajfel (1971) - Klee or Kandinsky]] | - |
+| Contrast a cognitive and sociocultural approach to group dynamics | [[Hamilton & Gifford (1976)]]* | [[Tajfel (1971) - Klee or Kandinsky]] | - |
+| Discuss two or more ethical considerations in the study of group dynamics | [[Sherif et al (1954) - Robbers cave]] - **FLAG** | [[Tajfel (1971) - Klee or Kandinsky]]* | - |
+| Discuss one or more research methods used to study group dynamics | [[Tajfel (1971) - Klee or Kandinsky]]* | [[Sherif et al (1954) - Robbers cave]] - **FLAG** | - |
+
+#### Content only
+
+| Question | Study 1 | Study 2 | Study 3 (optional) |
+|---|---|---|---|
+| Discuss/Evaluate one or more studies on cooperation and/or competition | [[Sherif et al (1954) - Robbers cave]] - **FLAG** | [[Tajfel (1971) - Klee or Kandinsky]]* | - |
+| Discuss one theory of cooperation and/or competition | [[Sherif et al (1954) - Robbers cave]] - **FLAG** | - | - |
+| Discuss/Evaluate one or more studies on prejudice and/or discrimination | [[Tajfel (1971) - Klee or Kandinsky]]* | [[Hamilton & Gifford (1976)]] | [[Steele and Aronson (1995)]] |
+| Discuss prejudice and/or discrimination | [[Tajfel (1971) - Klee or Kandinsky]]* | [[Hamilton & Gifford (1976)]] | [[Steele and Aronson (1995)]] |
+| Discuss/Evaluate one or more studies on the origin of conflict and/or conflict resolution | [[Sherif et al (1954) - Robbers cave]] - **FLAG** | [[Tajfel (1971) - Klee or Kandinsky]]* | - |
+| Discuss the origin of conflict and/or conflict resolution | [[Sherif et al (1954) - Robbers cave]] - **FLAG** | [[Tajfel (1971) - Klee or Kandinsky]]* | - |
+
+---
+
+## Studies That Are Not Currently Used
+
+- Rosenzweig et al. (1972): replaced by Draganski for neuroplasticity
+- Zimbardo (1971): Bandura + Tajfel cover ethics and group dynamics
+- Abrams et al. (1990): Tajfel covers SIT ERQs
+- Festinger (1956): Bandura covers ethics in sociocultural
+- Newcomer et al. (1999): McGaugh + Wedekind cover hormones ERQs
+- Bouchard et al. (1990): Kendler covers twin study questions
+- Atkinson & Shiffrin (1968): Glanzer & Cunitz is preferred for MSM SAQs as it provides empirical evidence; Atkinson & Shiffrin is the theoretical model source and can be used as supplementary context
+- Baddeley & Hitch (1974): Landry & Bartling is preferred for WMM SAQs as it provides direct empirical evidence; Baddeley & Hitch is the theoretical framework
+- Joy, Kimball & Zabrack (1986): SCT is covered by Bandura; this study is freed up
 
 ---
 
@@ -217,8 +293,8 @@ These are the studies doing the most work. Memorise these cold.
 | [[Kearins (1981)]]                                            | Cultural influence on cognition, quasi-experiment, enculturation (SOC)           |
 | [[Fagot (1978)]]                                              | Enculturation, gender roles, naturalistic observation (SOC)                      |
 | [[Hamilton & Gifford (1976)]]                                 | Stereotype formation, illusory correlation, System 1 (SOC)                       |
-| [[Oak House/Psychology/Studies/Sociocultural Studies/Stereotypes/Steele and Aronson (1995)]]                                 | Stereotype threat, cognitive load, SIT (SOC)                                     |
-| [[Lueck and Wilson (2010)]]                                 | Acculturation, acculturative stress, integration (SOC)                           |
+| [[Steele and Aronson (1995)]]                                 | Stereotype threat, cognitive load, SIT (SOC)                                     |
+| [[Lueck and Wilson (2010)]]                                   | Acculturation, acculturative stress, integration (SOC)                           |
 
 Previous version: 
 
